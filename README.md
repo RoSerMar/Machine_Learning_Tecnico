@@ -1,6 +1,6 @@
-# Núcleo de IA — Repositório Partilhado
+# Machine Learning Técnico
 
-Repositório de trabalho do núcleo de 9 estudantes que estão a aprender Inteligência Artificial. Aqui guardamos notebooks, exercícios, experiências e pequenos projetos.
+Repositório de trabalho. Aqui guardamos notebooks, exercícios, experiências e pequenos projetos.
 
 > Para evitar o clássico "na minha máquina funciona", **todos usamos exatamente as mesmas versões** listadas abaixo.
 
@@ -150,7 +150,7 @@ tf.random.set_seed(42)
 
 | Nome | GitHub |
 |---|---|
-| _(adicionar)_ | _(adicionar)_ |
+| Rodrigo Martins | RoSerMar |
 | _(adicionar)_ | _(adicionar)_ |
 | _(adicionar)_ | _(adicionar)_ |
 | _(adicionar)_ | _(adicionar)_ |
