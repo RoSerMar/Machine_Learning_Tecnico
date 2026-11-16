@@ -70,21 +70,6 @@ Resultado esperado:
 
 ---
 
-## requirements.txt
-
-```txt
-tensorflow==2.18.0
-keras==3.6.0
-numpy==2.0.2
-pandas==2.2.3
-matplotlib==3.9.2
-scikit-learn==1.5.2
-scipy==1.14.1
-jupyterlab==4.2.5
-```
-
----
-
 ## GPU (opcional)
 
 Quem tiver uma GPU NVIDIA em **Linux** pode instalar o TensorFlow com suporte CUDA:
