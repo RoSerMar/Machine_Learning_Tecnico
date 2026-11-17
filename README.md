@@ -29,8 +29,8 @@ Repositório de trabalho. Aqui guardamos notebooks, exercícios, experiências e
 ### 1. Clonar o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_REPOSITORIO>
+git clone https://github.com/Machine-Learning-Tecnico/Machine_Learning_Tecnico.git
+cd Machine_Learning_Tecnico
 ```
 
 ### 2. Criar um ambiente virtual (Python 3.11)
